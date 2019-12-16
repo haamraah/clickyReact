@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clickyReact/static/css/main.a8e4d8aa.chunk.css",
+    "main.js": "/clickyReact/static/js/main.13ffce67.chunk.js",
+    "main.js.map": "/clickyReact/static/js/main.13ffce67.chunk.js.map",
+    "runtime-main.js": "/clickyReact/static/js/runtime-main.d142ea4e.js",
+    "runtime-main.js.map": "/clickyReact/static/js/runtime-main.d142ea4e.js.map",
+    "static/js/2.46ba947a.chunk.js": "/clickyReact/static/js/2.46ba947a.chunk.js",
+    "static/js/2.46ba947a.chunk.js.map": "/clickyReact/static/js/2.46ba947a.chunk.js.map",
+    "index.html": "/clickyReact/index.html",
+    "precache-manifest.c966b0e65ddc12e6310e22b548835af9.js": "/clickyReact/precache-manifest.c966b0e65ddc12e6310e22b548835af9.js",
+    "service-worker.js": "/clickyReact/service-worker.js",
+    "static/css/main.a8e4d8aa.chunk.css.map": "/clickyReact/static/css/main.a8e4d8aa.chunk.css.map",
+    "static/js/2.46ba947a.chunk.js.LICENSE": "/clickyReact/static/js/2.46ba947a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d142ea4e.js",
+    "static/js/2.46ba947a.chunk.js",
+    "static/css/main.a8e4d8aa.chunk.css",
+    "static/js/main.13ffce67.chunk.js"
+  ]
+}
